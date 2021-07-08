@@ -1,4 +1,12 @@
-### Hi there 👋
+# Minh Tu Nguyen 
+
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=aresgod96&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/aresgod96)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aresgod96&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=aresgod)](https://solved.ac/aresgod)
+[![Codeforces Handle](https://pruvi007-apis.herokuapp.com/CF/Z-Saber)](https://codeforces.com/profile/Z-Saber)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aresgod96&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
+[![status](https://github-readme-streak-stats.herokuapp.com/?user=aresgod96&)](#)
 
 <!--
 **AresGod96/aresgod96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
